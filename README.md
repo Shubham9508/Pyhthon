@@ -1,4 +1,4 @@
-# Pyhthon
+# Python
 CODES FOR PRACTICE
 # Python3 program to swap first
 # and last element of a list
