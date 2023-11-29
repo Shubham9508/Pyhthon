@@ -1,0 +1,2 @@
+# Pyhthon
+CODES FOR PRACTICE
